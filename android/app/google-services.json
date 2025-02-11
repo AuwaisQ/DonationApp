@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "1057578835114",
+    "firebase_url": "https://demoproject-9fc4d-default-rtdb.firebaseio.com",
+    "project_id": "demoproject-9fc4d",
+    "storage_bucket": "demoproject-9fc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:edb61cf259c548502c04d3",
+        "android_client_info": {
+          "package_name": "com.example.go_caar_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-kephatdujnqdleum5sj4mg4gu8vaq5q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.go_caar_go",
+            "certificate_hash": "d3259ffaa06927eca5f50def3794099ef6cd91aa"
+          }
+        },
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSYAUSlqZkDTZipkBEWLBvOTN-5e_45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:4a49ee8ad44594722c04d3",
+        "android_client_info": {
+          "package_name": "com.manal.hamdam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-2b4vdoa3q2jtb6t8rthbv2b82k7ki7j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.hamdam",
+            "certificate_hash": "ee996de4e09a259581fbf094e880dd455e05671a"
+          }
+        },
+        {
+          "client_id": "1057578835114-4k3rufemipunsb46lhlqgh2aekuj1bcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.hamdam",
+            "certificate_hash": "aafd719d98b7f3b4143c5f778e30c443939ba793"
+          }
+        },
+        {
+          "client_id": "1057578835114-f5de4gjs82dvvv5bjc49in5q0c48884r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.hamdam",
+            "certificate_hash": "47d85babd2a61f5135b94e5d3aa6712f652f72dc"
+          }
+        },
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSYAUSlqZkDTZipkBEWLBvOTN-5e_45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:451a02b8b65773962c04d3",
+        "android_client_info": {
+          "package_name": "com.manal.mm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-s2t8l9mn0oqf8ftf2qmeg618m5hds9q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.mm",
+            "certificate_hash": "47d85babd2a61f5135b94e5d3aa6712f652f72dc"
+          }
+        },
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSYAUSlqZkDTZipkBEWLBvOTN-5e_45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:07479e3a83ed9c902c04d3",
+        "android_client_info": {
+          "package_name": "com.manalSoftech.miniGuru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-gmq8t2u7aooavt881cphqnjhh0p9tive.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manalSoftech.miniGuru",
+            "certificate_hash": "47d85babd2a61f5135b94e5d3aa6712f652f72dc"
+          }
+        },
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSYAUSlqZkDTZipkBEWLBvOTN-5e_45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
